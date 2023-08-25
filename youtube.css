@@ -1,0 +1,198 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:  #F4F0F4;
+
+}
+
+.columm {
+    width: 370px;
+    margin: 20px;
+    
+}
+
+.box {
+    border-radius: 5px;
+    padding: 20px;
+    background-color:#FFFDFF ;
+    margin-bottom: 20px;
+}
+
+.ffs {
+    font-size: 18px;
+    margin-left: 8px;
+}
+
+.boxtitle {
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.thumbnail {
+    width: 100%;
+    border-radius: 2px;
+
+}
+.thumbnailcontainer {
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 18px;
+
+}
+
+.performance {
+    margin-bottom: 10px;
+}
+
+.op {
+    opacity: 0.5;
+}
+
+.statcontainer {
+    margin-bottom: 16px;
+}
+.stat {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0px;
+}
+
+.link {
+    color: blue;
+}
+
+.comments{
+    margin-top: 15px;
+}
+
+.fs2 {
+    font-size: 12px;
+}
+
+.firstsecond {
+    display: flex;
+    justify-content: space-between;
+    padding-top:5px;
+}
+
+.firstsecondimg {
+    width: 80px;
+}
+
+.wlogo {
+    margin-right: 20px;
+}
+
+.wtxt {
+    margin-left: 50px;
+}
+/*second collum*/
+
+.secondtitle {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.secondcollumimage {
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.fs3 {
+    font-size: 14;
+}
+
+.fs {
+    font-size: 13px;
+}
+
+.creator {
+    margin-bottom: 12px;
+}
+
+.fa-chevron-left {
+    margin-right: 20px;
+}
+
+.bagoda {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left:50px;
+    margin-top: 15px;
+}
+
+.secondthird {
+    width: 50%;
+}
+
+.downarrow {
+   margin-left: 150px;
+}
+
+/*Third collum*/
+
+.subscribercount {
+    font-size: 34px;
+}
+
+.subcountincrease {
+    color: green;
+}
+
+.divider {
+    height: 1px;
+    background-color: lightgray;
+    margin: 8px 0px;
+}
+
+.view {
+    display: flex;
+    justify-content: space-between;
+}
+
+.colorgreen {
+    color: green;
+}
+
+.colorred {
+    color: red;
+}
+
+.gotochannel {
+    margin: 15px 0px;
+}
+
+.overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.htw {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.htwflexbox {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.marginbottom {
+    margin-bottom: 5px;
+}
+
+.htwcontainer{
+    margin: 18px;
+}
+
+.marginbottom2 {
+    margin-bottom: 20px;
+}
